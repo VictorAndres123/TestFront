@@ -1,0 +1,14 @@
+Descripción del Frontend de la Tienda en Línea
+
+Este proyecto frontend utiliza Ionic Framework junto con Vue.js para crear una interfaz moderna y responsive para una tienda en línea. La aplicación permite gestionar productos y categorías, mostrando listas dinámicas y facilitando la navegación entre las diferentes secciones de la tienda.
+
+
+Características Destacadas:
+
+Tecnologías Utilizadas: Vue.js para la lógica y la UI, Ionic Framework para los componentes móviles y estilos adaptativos.
+
+Funcionalidades Implementadas: Lista de productos con detalles de nombre, precio y categoría, lista de categorías con descripciones.
+
+Navegación Intuitiva: Botones de navegación que utilizan Vue Router para moverse entre las vistas de productos y categorías.
+
+Diseño Responsive: Interfaz adaptable para diversos dispositivos, optimizada para dispositivos móviles y desktop.
