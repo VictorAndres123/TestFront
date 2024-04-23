@@ -1,0 +1,46 @@
+# Compilación y salidas de compilación
+/target/
+*.class
+
+# Archivos y directorios de configuración de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Dependencias locales (carpetas y archivos)
+.m2/
+.gradle/
+
+# Archivos y directorios de logs
+*.log
+logs/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de pruebas
+/test-output/
+
+# Archivos y directorios de Maven o Gradle
+/target/
+*.jar
+*.war
+*.ear
+*.iml
+
+# Directorios específicos del entorno de desarrollo
+build/
+bin/
+.gradle/
+.settings/
+
+# Archivos de control de versiones
+.classpath
+.project
+.settings/
+
+# Archivos y directorios generados automáticamente
+!.gitignore
